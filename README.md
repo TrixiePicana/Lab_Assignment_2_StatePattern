@@ -36,4 +36,4 @@
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; Introduce a reference to the current VendingMachineState object. <br>
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; Delegate actions like selectItem, insertCoin, dispenseItem, and setOutOfOrder to the current state object through its corresponding methods.
 ## UML Diagram
-![UML Diagram](https://github.com/TrixiePicana/Lab_Assignment_2_StatePattern/blob/main/Lab%20Assignment%202_%20State%20Pattern.pdf) 
+![UML Diagram](https://github.com/TrixiePicana/Lab_Assignment_2_StatePattern/blob/main/Lab%20Assignment%202_%20State%20Pattern.pdf)  
